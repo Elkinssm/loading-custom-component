@@ -1,0 +1,9 @@
+{
+  "subPackageBuildType": "shared",
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "defaultTitle": "Ejemplo de uso loading"
+  }
+}

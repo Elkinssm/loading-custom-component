@@ -1,0 +1,11 @@
+<view>
+  <text style="  font-size: 30px;
+  text-align: center;">
+    This is an example for using a custom loading component
+  </text>
+
+  <button type="primary" class="button" hover-class="button-hover" onTap="onTapButton" style="margin-top:20px;">
+    Mostrar loading
+  </button>
+  <loading a:if="{{showLoading}}" />
+</view>
